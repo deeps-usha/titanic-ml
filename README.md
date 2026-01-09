@@ -103,4 +103,6 @@ The close alignment between CV and leaderboard scores indicates good generalizat
 
 ## 📎 Notes
 This project is intended as a **learning-focused portfolio example**, demonstrating sound machine learning practices rather than leaderboard optimization.
+Also clone the repository and run notebooks locally.
+Data is accessed via relative paths.
 
